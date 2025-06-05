@@ -1,0 +1,5 @@
+config,mean,std,min,max
+int_no_mal,60.0,0.0,60.0,60.0
+mal_int,60.0,0.0,60.0,60.0
+mal_no_int,60.0,0.0,60.0,60.0
+no_mal_no_int,60.0,0.0,60.0,60.0

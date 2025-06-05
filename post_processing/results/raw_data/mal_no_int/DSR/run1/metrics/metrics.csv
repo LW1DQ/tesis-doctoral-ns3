@@ -1,0 +1,2 @@
+timestamp,protocolo,nodos_fijos,nodos_moviles,nodos_maliciosos,nodos_interferentes,throughput_promedio,throughput_maximo,delay_promedio,delay_maximo,delay_minimo,jitter_promedio,perdida_paquetes,pdr,paquetes_totales,paquetes_perdidos,numero_flujos,tiempo_simulacion
+2025-06-03 10:22:37,DSR,20,10,2,0,9.352533333333334,40.96,0.41116191176470585,1.9980399999999996,0.0002999999999957481,0.803281481481482,0.0,100.0,137,0,5,60.0

@@ -1,0 +1,10 @@
+Metadatos de Simulación
+Timestamp: 2025-06-03 09:54:51
+Nodos Fijos: 20
+Nodos Móviles: 10
+Nodos Maliciosos: 2
+Nodos Interferentes: 0
+Tiempo de Simulación: 60 segundos
+Protocolo de Enrutamiento: OLSR
+Nombre de Configuración: mal_no_int
+Semilla Aleatoria: 1002

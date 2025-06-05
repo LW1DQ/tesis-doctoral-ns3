@@ -1,0 +1,22 @@
+# Archivos generados por NS-3
+build/
+*.o
+*.log
+*.tr
+*.pcap
+
+# Datos crudos (muy grandes)
+data/raw/*
+
+# Archivos de Python
+venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.swp
+*.bak
+post_processing.log
+
+# Dependencias innecesarias
+tzdata/
