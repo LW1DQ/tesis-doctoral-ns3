@@ -1,0 +1,10 @@
+Metadatos de Simulación
+Timestamp: 2025-06-03 09:24:55
+Nodos Fijos: 20
+Nodos Móviles: 10
+Nodos Maliciosos: 0
+Nodos Interferentes: 3
+Tiempo de Simulación: 60 segundos
+Protocolo de Enrutamiento: DSDV
+Nombre de Configuración: int_no_mal
+Semilla Aleatoria: 1008
